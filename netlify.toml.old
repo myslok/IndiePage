@@ -1,0 +1,3 @@
+[build]
+command = "chmod a+x .netlify/install.sh && .netlify/install.sh"
+publish = ""
